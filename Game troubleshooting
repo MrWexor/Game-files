@@ -15,4 +15,4 @@ PROTON_USE_WINED3D11=1 %command% + Proton 5.0
 	Stumble Guys
 
 Grand Theft Auto: Vice City:
-PROTON_USE_WINED3D11=1 %command% + Proton 3.16 + ReVC + Script file
+PROTON_USE_WINED3D11=1 %command% + Proton 3.16 + reVC + Script file
