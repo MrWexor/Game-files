@@ -8,9 +8,9 @@ PROTON_USE_WINED3D11=1 %command%
 	Cuphead
 	Ori and the Blind Forest: Definitive Edition
 	Venetica
-
-PROTON_USE_WINED3D11=1 %command% + Proton 3.16 + Script file
-	Grand Theft Auto: Vice City (reVC)
-
+	
 PROTON_USE_WINED3D11=1 %command% + Proton 5.0
 	Stumble Guys
+
+Grand Theft Auto: Vice City:
+PROTON_USE_WINED3D11=1 %command% + Proton 3.16 + ReVC + Script file
