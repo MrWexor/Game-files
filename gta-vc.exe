@@ -1,4 +1,4 @@
-#!/bin/bash
 # Small script faking an .exe file for launching reVC on Steam
+#!/bin/bash
 
 ./reVC.exe
